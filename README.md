@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amena-hira&label=Profile%20views&color=0e75b6&style=flat" alt="amena-hira" /> </p>
 
-- 🔭 I’m currently working on **AirHelp**
+- 🔭 I’m currently working on **AirAssistant project**
 
 - 🌱 I’m currently learning **Next.js**
 
