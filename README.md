@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amenahira6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y3Xi-fJHFTtzdk_bDO3_90VVOudnclXE/view?usp=sharing](https://drive.google.com/file/d/1Y3Xi-fJHFTtzdk_bDO3_90VVOudnclXE/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **Coding**
 
