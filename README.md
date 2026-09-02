@@ -25,10 +25,10 @@ I'm a passionate **Full Stack Developer** who enjoys building modern, responsive
 
   </td>
 
-  <td width="40%" align="center" valign="middle">
+  <td width="30%" align="center" valign="middle">
     <img
       alt="Coding"
-      width="400"
+      width="300"
       src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
     />
   </td>
