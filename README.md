@@ -1,11 +1,11 @@
 [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)](https://amenahira.com)
 
 <!-- Banner -->
-<img src="./banner/ok.png" alt="Amena Akhter Hira" width="100%">
+<img src="./banner/ok.png" alt="Amena Hira" width="100%">
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm Amena Akhter Hira</h1>
+<h1 align="center">Hi 👋, I'm Amena Hira</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <table>
