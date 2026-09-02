@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Coding**
 
-<img src="https://cdn.dribbble.com/userupload/42334320/file/original-8c139726e65387b712938a010bf3feaf.gif" width="35" align="center"/> Connect with me:
+<img src="https://cdn.dribbble.com/userupload/42334320/file/original-8c139726e65387b712938a010bf3feaf.gif" width="35" align="vertical-align: middle;"/> Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/amena akhter hira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amena akhter hira" height="30" width="40" /></a>
 <a href="https://discord.gg/Hira#1616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hira#1616" height="30" width="40" /></a>
