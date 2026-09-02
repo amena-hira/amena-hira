@@ -27,8 +27,8 @@
 <a href="https://discord.gg/Hira#1616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hira#1616" height="30" width="40" /></a>
 </p>
 <h2>
-  <img src="https://cdn.dribbble.com/userupload/24206249/file/original-46f6173bfe35e2748dbcf934eef80e40.gif" width="55" align="center" />
-  TECHNOLOGY STACK:
+  <img src="https://cdn.dribbble.com/userupload/24206249/file/original-46f6173bfe35e2748dbcf934eef80e40.gif" width="45" align="center" />
+  <b>TECHNOLOGY STACK:</b>
 </h2>
 
 <h3 align="left">Languages and Tools:</h3>
